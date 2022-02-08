@@ -1,4 +1,4 @@
-Numero 1 : https://github.com/yvancubahiro/csi2532_playground/blob/lab4/exercice%201.png
+Numero 1 : ![https://github.com/yvancubahiro/csi2532_playground/blob/lab4/exercice%201.png]
 
 SQL Code:
 
