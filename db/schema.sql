@@ -4,3 +4,11 @@ CREATE TABLE athletes(
     identified_gender varchar(1),
     dob date,
 )
+
+CREATE TABLE schema_migrations (
+ migration varchar(255),
+ migrated_at time,
+ PRIMARY KEY (migration)
+);
+
+ALTER TABLE atheltes RENAME COLUMN athlete_name TO name
