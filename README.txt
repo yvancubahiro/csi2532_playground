@@ -1,2 +1,1 @@
-csi2532_playground est le repertoire dans lequel les laboratoire du cours
-de csi2532 vont etre fait.
+Dans cette branche de lab 09, l'exerice 1 et 2 sont combiné dans une seule fichier sql, les autres exercices sont chacun dans son fichier.
